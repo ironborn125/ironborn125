@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Sr. Enterprise Database Administrator and currently learning on using git for developing database management scripts and share to the community.
+I am looking forward to collaborating with Tech enthusiasts to develop and build SOPs on multi-tech.
+
 <!--
 **ironborn125/ironborn125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
