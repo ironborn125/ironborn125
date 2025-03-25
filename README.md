@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Sr. Enterprise Database Administrator and currently learning on using git for developing database management scripts and share to the community.
+I am a Sr. Enterprise Database Administrator and currently learning on using git for developing database management scripts and share it with the community.
 I am looking forward to collaborating with Tech enthusiasts to develop and build SOPs on multi-tech.
 
 <!--
